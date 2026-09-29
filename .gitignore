@@ -1,0 +1,11 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+**/target/
+
+# Local secrets
+**/db.properties.local
+**/*local*.properties
