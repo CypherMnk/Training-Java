@@ -2,7 +2,7 @@
 
 Java training projects:
 
-- `honeapp` - Hibernate CRUD and Employee HQL assignment.
+- `honeapp` - Hibernate CRUD and Employee HQL assignment.`r`n- `hthreeapp` - Hibernate one-to-one Employee and EmployeeProfile mapping.
 - `lmsdbapp` - LMS database application.
 - `oneweb` - JSP/Servlet LMS web application with user CRUD.
 
@@ -13,5 +13,5 @@ Java training projects:
    - `lmsdbapp/src/main/resources/db.properties`
    - `oneweb/src/main/resources/db.properties`
    - `honeapp/src/main/resources/hibernate.cfg.xml`
-   - `honeapp/src/main/resources/hibernate-employee.cfg.xml`
+   - `honeapp/src/main/resources/hibernate-employee.cfg.xml` `r`n   - `hthreeapp/src/main/resources/hibernate.cfg.xml`
 3. Replace every `CHANGE_ME` value with your local MySQL password.
